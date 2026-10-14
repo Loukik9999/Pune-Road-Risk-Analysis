@@ -34,5 +34,13 @@ Road accident dataset used for analysis and visualization.
 - Risk zone identification
 - Interactive Tableau dashboard
 
+## Dashboard Preview
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c62ffc35-25c4-4bbf-bb16-2e7fb7b8f663" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c3d36165-f9c3-4b5a-baae-6c2733790814" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/eab04ba6-9fe3-4964-a90c-72600f07aad5" />
+
+
+
+
 ## Author
 Loukik Ingale
